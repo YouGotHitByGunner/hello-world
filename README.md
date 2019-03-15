@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+Costin here, I like C# and drinking coffe in the mornings.
