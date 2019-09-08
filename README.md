@@ -1,5 +1,6 @@
 # hello-world
 
-Hi humans!
+Hi fellow humans!
 
-Costin here, I like C# and drinking coffe in the mornings.
+Costin talking...
+I like learning C# and drinking coffee in the mornings.
